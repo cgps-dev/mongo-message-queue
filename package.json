@@ -7,6 +7,9 @@
     "lodash": ">=3.8.0",
     "q": ">=1.2.0"
   },
+  "devDependencies": {
+    "eslint-config-cgps": "cgps-dev/eslint-config-cgps"
+  },
   "peerDependencies": {
     "mongodb": ">= 2.0.36 < 3"
   },
